@@ -1,5 +1,4 @@
-1 Page Lisp
-===============================
+![logo](one-page-lisp-project.png)
 
 [1 Page Lisp is a learning project](https://github.com/claes-magnus/one-page-lisp). My goal was to write a minimalistic Lisp interpreter. With comments and unnecessary blanks removed, I wanted solutions that fit an a4, pretty-printed.
 
