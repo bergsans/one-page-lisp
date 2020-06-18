@@ -1,6 +1,6 @@
 ![logo](one-page-lisp-project.png)
 
-[1 Page Lisp is a learning project](https://github.com/claes-magnus/one-page-lisp). My goal was to write a minimalistic Lisp interpreter. With comments and unnecessary blanks removed, I wanted solutions that fit an a4, pretty-printed.
+1 Page Lisp is a learning project. My goal was to write a minimalistic Lisp interpreter. With comments and unnecessary blanks removed, I wanted solutions that fit an a4, pretty-printed.
 
 I find Lisp (and Lisp dialects such as Scheme) interesting, partly because it is so different from languages I know a bit better. Why not make an interpreter and at the same time learn more Lisp? 
 
