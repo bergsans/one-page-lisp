@@ -15,7 +15,6 @@
     "prettier-eslint": "^9.0.1"
   },
   "dependencies": {
-    "foxy-dev-tools": "^0.5.1",
     "readline": "^1.3.0"
   }
 }
